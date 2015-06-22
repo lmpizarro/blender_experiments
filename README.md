@@ -1,3 +1,3 @@
 # Blender Experiments
 
-Little blender experiments with compositing
+Little blender experiments with compositing and python
