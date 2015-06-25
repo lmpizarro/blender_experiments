@@ -17,10 +17,7 @@ Little blender experiments with compositing and python
 * Blender 2.64:  [Mask Editor](http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.64/Mask_Editor)
 
 
-### Color Correction -  Color grading
-* Introduction to Blender 2.5: [Color Grading](https://www.packtpub.com/books/content/introduction-blender-25-color-grading)
-* Introduction to Blender 2.5 Color Grading - [A Sequel](https://www.packtpub.com/books/content/introduction-blender-25-color-grading-sequel)
-* White Balance [link](http://www.luceri.it/2011/04/white-balance-with-blender)
+
 
 
 ## Workflow
@@ -31,6 +28,14 @@ Little blender experiments with compositing and python
 * Abel Cine [link](http://training.abelcine.com/workshops/dit-and-engineering-workshops/)
 
 # Color
+
+## Color Magement [tutorial](http://wiki.blender.org/index.php/User:Sobotka/Color_Management)
+
+### Color Correction -  Color grading
+* Introduction to Blender 2.5: [Color Grading](https://www.packtpub.com/books/content/introduction-blender-25-color-grading)
+* Introduction to Blender 2.5 Color Grading - [A Sequel](https://www.packtpub.com/books/content/introduction-blender-25-color-grading-sequel)
+* White Balance [link](http://www.luceri.it/2011/04/white-balance-with-blender)
+
 
 * What is a LUT (Look-Up Table)? [link](http://wolfcrow.com/blog/what-is-a-lut-look-up-table/)
 
