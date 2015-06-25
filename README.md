@@ -16,6 +16,9 @@ Little blender experiments with compositing and python
 ### U/V Image Editor
 * Blender 2.64:  [Mask Editor](http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.64/Mask_Editor)
 
+### Color Correction -  Color grading
+* Introduction to Blender 2.5: [Color Grading](https://www.packtpub.com/books/content/introduction-blender-25-color-grading)
+
 # Color
 
 * What is a LUT (Look-Up Table)? [link](http://wolfcrow.com/blog/what-is-a-lut-look-up-table/)
