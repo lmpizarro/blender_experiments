@@ -28,6 +28,7 @@ Little blender experiments with compositing and python
 
 ## Engineering
 * Video - Charles Poynton [link](http://www.poynton.com/Poynton-video-eng.html)
+* Abel Cine [link](http://training.abelcine.com/workshops/dit-and-engineering-workshops/)
 
 # Color
 
