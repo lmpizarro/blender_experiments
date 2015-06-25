@@ -22,12 +22,17 @@ Little blender experiments with compositing and python
 * Introduction to Blender 2.5 Color Grading - [A Sequel](https://www.packtpub.com/books/content/introduction-blender-25-color-grading-sequel)
 * White Balance [link](http://www.luceri.it/2011/04/white-balance-with-blender)
 
+
+## Workflow
+*Video Editing With Blender [VSE](http://monochrome.sutic.nu/2010/06/14/video-editing-with-blender.html)
+
+## Engineering
+* Video - Charles Poynton [link](http://www.poynton.com/Poynton-video-eng.html)
+
 # Color
 
 * What is a LUT (Look-Up Table)? [link](http://wolfcrow.com/blog/what-is-a-lut-look-up-table/)
 
-## Workflow
-*Video Editing With Blender [VSE](http://monochrome.sutic.nu/2010/06/14/video-editing-with-blender.html)
 
 ## Searchs
 
