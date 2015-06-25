@@ -9,6 +9,9 @@ Little blender experiments with compositing and python
 * 555 Blender Tutorials [link](http://filmmakeriq.com/2009/04/555-blender-tutorials/)
 * Introduction to Blender 2.5: Color Grading [link](https://www.packtpub.com/books/content/introduction-blender-25-color-grading)
 
+### Alpha Over node
+ * AlphaOver Node  [2.4](http://wiki.blender.org/index.php/Doc:2.4/Manual/Composite_Nodes/Types/Color#AlphaOver_Node)
+ * AlphaOver Node [2.6](http://www.blender.org/manual/composite_nodes/types/color/alpha_over.html)
 
 # Color
 
