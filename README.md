@@ -24,6 +24,10 @@ Little blender experiments with compositing and python
 # Color
 
 * What is a LUT (Look-Up Table)? [link](http://wolfcrow.com/blog/what-is-a-lut-look-up-table/)
+* 
+
+## Workflow
+*Video Editing With Blender [VSE](http://monochrome.sutic.nu/2010/06/14/video-editing-with-blender.html)
 
 ## Searchs
 
