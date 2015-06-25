@@ -42,6 +42,8 @@ Little blender experiments with compositing and python
 
 * What is a LUT (Look-Up Table)? [link](http://wolfcrow.com/blog/what-is-a-lut-look-up-table/)
 
+# Links
+* the Blender Velvets [link](http://blendervelvets.org/)
 
 ## Searchs
 
