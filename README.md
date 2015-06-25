@@ -19,8 +19,7 @@ Little blender experiments with compositing and python
 
 ### Color Correction -  Color grading
 * Introduction to Blender 2.5: [Color Grading](https://www.packtpub.com/books/content/introduction-blender-25-color-grading)
-* 	
-Introduction to Blender 2.5 Color Grading - [A Sequel](https://www.packtpub.com/books/content/introduction-blender-25-color-grading-sequel)
+* Introduction to Blender 2.5 Color Grading - [A Sequel](https://www.packtpub.com/books/content/introduction-blender-25-color-grading-sequel)
 
 # Color
 
