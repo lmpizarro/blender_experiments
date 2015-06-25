@@ -29,7 +29,9 @@ Little blender experiments with compositing and python
 
 # Color
 
-## Color Magement [tutorial](http://wiki.blender.org/index.php/User:Sobotka/Color_Management)
+## Color Magement 
+
+* An Introduction to Color Management in Blender [tutorial](http://wiki.blender.org/index.php/User:Sobotka/Color_Management)
 
 ### Color Correction -  Color grading
 * Introduction to Blender 2.5: [Color Grading](https://www.packtpub.com/books/content/introduction-blender-25-color-grading)
