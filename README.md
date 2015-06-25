@@ -12,6 +12,9 @@ Little blender experiments with compositing and python
 ### Alpha Over node
  * AlphaOver Node  [2.4](http://wiki.blender.org/index.php/Doc:2.4/Manual/Composite_Nodes/Types/Color#AlphaOver_Node)
  * AlphaOver Node [2.6](http://www.blender.org/manual/composite_nodes/types/color/alpha_over.html)
+ 
+### U/V Image Editor
+* Blender 2.64:  [Mask Editor](http://wiki.blender.org/index.php/Dev:Ref/Release_Notes/2.64/Mask_Editor)
 
 # Color
 
