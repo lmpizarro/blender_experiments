@@ -21,7 +21,8 @@ Little blender experiments with compositing and python
 
 
 ## Workflow
-*Video Editing With Blender [VSE](http://monochrome.sutic.nu/2010/06/14/video-editing-with-blender.html)
+* Video Editing With Blender [VSE](http://monochrome.sutic.nu/2010/06/14/video-editing-with-blender.html)
+* Editing Videos with Blender [link](http://www.blendtuts.com/video_editing)
 
 ## Engineering
 * Video - Charles Poynton [link](http://www.poynton.com/Poynton-video-eng.html)
