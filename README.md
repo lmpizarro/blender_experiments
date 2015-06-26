@@ -35,10 +35,14 @@ Little blender experiments with compositing and python
 
 * An Introduction to Color Management in Blender [tutorial](http://wiki.blender.org/index.php/User:Sobotka/Color_Management)
 
-### Color Correction -  Color grading
+## Color Correction -  Color grading
 * Introduction to Blender 2.5: [Color Grading](https://www.packtpub.com/books/content/introduction-blender-25-color-grading)
 * Introduction to Blender 2.5 Color Grading - [A Sequel](https://www.packtpub.com/books/content/introduction-blender-25-color-grading-sequel)
 * White Balance [link](http://www.luceri.it/2011/04/white-balance-with-blender)
+
+## Calibration
+* Calibration Guide  [link](http://www.tftcentral.co.uk/articles/calibrating.htm)
+* Monitor calibration and gamma  [link](http://www.normankoren.com/makingfineprints1A.html)
 
 
 * What is a LUT (Look-Up Table)? [link](http://wolfcrow.com/blog/what-is-a-lut-look-up-table/)
