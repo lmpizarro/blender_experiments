@@ -52,6 +52,7 @@ Little blender experiments with compositing and python
 * Blender Tutorials [link](http://www.3dtutorials.org/video/1815/blender-tutorial-using-blender-039-s-color-correction-node-in-compositing/)
 * THE TUBE OPEN MOVIE [link](http://urchn.org/)
 * BitFilms [link](http://bitfilms.com/about.html)
+* Open Source Camera: [Apertus](https://apertus.org/)
 
 ## Searchs
 
