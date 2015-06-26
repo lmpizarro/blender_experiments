@@ -50,6 +50,8 @@ Little blender experiments with compositing and python
 # Links
 * The Blender Velvets [link](http://blendervelvets.org/)
 * Blender Tutorials [link](http://www.3dtutorials.org/video/1815/blender-tutorial-using-blender-039-s-color-correction-node-in-compositing/)
+* THE TUBE OPEN MOVIE [link](http://urchn.org/)
+* BitFilms [link](http://bitfilms.com/about.html)
 
 ## Searchs
 
